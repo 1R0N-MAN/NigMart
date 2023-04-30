@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/increaseQuantity"
+            android:layout_width="@dimen/increase_button_size"
+            android:layout_height="@dimen/increase_button_size"
+            android:contentDescription="@string/quantity_adjustment_content_desc"
+            android:src="@drawable/ic_increase_quantity"/>
+
+        <ImageView
+            android:id="@+id/decreaseQuantity"
+            android:layout_width="@dimen/increase_button_size"
+            android:layout_height="@dimen/increase_button_size"
+            android:contentDescription="@string/quantity_adjustment_content_desc"
+            android:src="@drawable/ic_decrease_quantity"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/itemQuantity"
+        android:layout_width="50dp"
+        android:layout_height="match_parent"
+        android:layout_marginHorizontal="10dp"/>
+
+    <com.google.android.material.card.MaterialCardView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center">
+
+            <TextView
+                android:id="@+id/unitTag"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textSize="15sp"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                tools:text="each"/>
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </com.google.android.material.card.MaterialCardView>
+
+</LinearLayout>

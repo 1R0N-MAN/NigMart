@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.material.imageview.ShapeableImageView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/imageSliderItemImageView"
+    android:layout_width="50dp"
+    android:layout_height="40dp"
+    android:layout_margin="1dp"
+    app:shapeAppearanceOverlay="@style/roundedRectangleImageView"
+    tools:src="@drawable/beverages" />

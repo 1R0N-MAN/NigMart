@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "579950390825",
+    "project_id": "nigmart-dc13a",
+    "storage_bucket": "nigmart-dc13a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579950390825:android:a423a761d3716eb3627638",
+        "android_client_info": {
+          "package_name": "com.example.nigmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579950390825-cjsk3dbqqloso0nlkqg42mm63jlmulot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADkzOuxUE3oimySit8daySY-cTCOLrNjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579950390825-cjsk3dbqqloso0nlkqg42mm63jlmulot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579950390825:android:4a8d4ae1a1290aaa627638",
+        "android_client_info": {
+          "package_name": "com.onyotech.nigmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579950390825-cjsk3dbqqloso0nlkqg42mm63jlmulot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADkzOuxUE3oimySit8daySY-cTCOLrNjA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579950390825-cjsk3dbqqloso0nlkqg42mm63jlmulot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

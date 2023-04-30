@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">NigMart</string>
+    <string name="mart">Mart</string>
+    <string name="nig">Nig</string>
+    <string name="login">Login</string>
+    <string name="sign_up">Sign up</string>
+    <string name="username">Username</string>
+    <string name="username_hint">Enter a valid username</string>
+    <string name="email">Email</string>
+    <string name="email_hint">name@example.com</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password_hint">min. 8 characters</string>
+    <string name="keep_me_logged_in">Keep me logged in</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="do_not_have_an_account">Don\'t have an account?\u0020</string>
+    <string name="already_have_an_account">Already have an account?\u0020</string>
+    <string name="categories">Categories</string>
+    <string name="my_profile">My Profile</string>
+    <string name="account_settings">Account Settings</string>
+    <string name="logout">Logout</string>
+    <string name="go_to_cart_desc">Go to Cart</string>
+    <string name="navigation_menu_desc">Navigation Menu</string>
+    <string name="nav_header_desc">Profile Pic</string>
+    <string name="nav_header_title">Username</string>
+    <string name="nav_header_subtitle">user@email.com</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="category_img_desc">category item</string>
+    <string name="bread_and_bakery"><![CDATA[Bread & Bakery]]></string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="description">Description</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce porta, nisi et malesuada viverra, metus felis gravida nisl, id volutpat velit ante ut purus. Phasellus rutrum nibh ante, et bibendum risus tincidunt ac. Etiam porttitor commodo cursus. In elit diam, laoreet vitae sollicitudin non, facilisis sit amet ante. Integer sollicitudin rhoncus ante, vitae dictum ante pulvinar sed. Sed dapibus elementum tristique. Ut eu nibh mollis, consequat ipsum eu, aliquam nulla. Morbi dignissim lectus nisl, sed laoreet risus placerat id. Nulla mi odio, dictum sit amet neque non, viverra mollis mi. Vestibulum ac hendrerit orci, placerat fermentum lacus</string>
+    <string name="added_to_cart">Added to Cart</string>
+    <string name="check_out">Check Out</string>
+    <string name="remove_from_cart">Remove from cart</string>
+    <string name="item_image_content_desc">Item Image</string>
+    <string name="quantity_adjustment_content_desc">quantity adjustment</string>
+    <string name="price_holder">N %d</string>
+</resources>
